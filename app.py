@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_image_comparison import image_comparison
-import streamlit.components.v1 as components
+
 
 st.set_page_config("Agumented Creative Optimizer", layout="wide")
 st.image("logo.png", width=150)
