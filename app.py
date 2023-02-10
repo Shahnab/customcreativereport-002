@@ -6,7 +6,7 @@ st.set_page_config("Agumented Creative Optimizer", layout="wide")
 st.image("logo.png", width=150)
 
 ##Sidebar
-st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dentsu-logo_black.svg/2560px-Dentsu-logo_black.svg.png", width=100)
+# st.sidebar.image("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dentsu-logo_black.svg/2560px-Dentsu-logo_black.svg.png", width=100)
 st.sidebar.header("Demo Creative Report")
 st.sidebar.caption("Environment: Out of Home")
 st.sidebar.subheader("ACO Creative Analyser Engine")
